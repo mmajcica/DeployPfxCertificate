@@ -1,0 +1,31 @@
+{
+  "name": "mmajcica.picklesgen",
+  "version": "0.1.0",
+  "description": "Generates your Pickles living documentation.",
+  "author": "Mario Majcica",
+  "license": "MIT",
+  "homepage": "https://github.com/mmajcica/PicklesGeneratorTask#readme",
+  "bugs": {
+    "url": "https://github.com/mmajcica/PicklesGeneratorTask/issues"
+  },
+  "keywords": [
+    "Pickles",
+    "Test",
+    "Living Documentation",
+    "Report",
+    "Reports"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mmajcica/PicklesGeneratorTask.git"
+  },
+  "devDependencies": {
+    "del": "^2.0.0",
+    "gulp": "^3.9.1",
+    "gulp-debug": "^2.1.2",
+    "gulp-util": "^3.0.0",
+    "merge-stream": "^1.0.0",
+    "shelljs": "^0.3.0",
+    "minimist": "1.1.1"
+  }
+}
